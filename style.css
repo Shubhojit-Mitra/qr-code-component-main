@@ -7,7 +7,7 @@ body {
 }
 
 .main {
-    width: 300px;
+    width: 260px;
     background-color: white;
     box-shadow: 0px 0px 66px -40px rgba(0,0,0,0.75);
     border-radius: 15px;
@@ -19,7 +19,7 @@ body {
 }
 
 img {
-    width: 300px;
+    width: 260px;
     border-radius: 10px;
     margin-bottom: 20px;
 }
@@ -31,16 +31,15 @@ img {
 }
 
 .improve {
-    font-size: 22px;
-    font-weight: 700;
+    font-size: 19px;
+    font-weight: 900;
     color: #1f2e4d;
     margin-bottom: 20px;
 }
 
 .scan-qr {
     color: grey;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 200;
-    margin: 5px;
 }
 
